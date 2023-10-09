@@ -13,7 +13,7 @@ const Hero = () => {
         </div>
 
         <div>
-          <h1 className={`${styles.heroHeadText} text-white`}>Hai, Saya <span className='text-[#915eff]'>Arfifa Rahman</span></h1>
+          <h1 className={`${styles.heroHeadText} text-white`}>Hai, Saya <span className='text-[#915eff]'>Arfifa Rahman Ganteng</span></h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             Front-End Web, Mobile Applications dan Full-Stack Web Developer <br className='sm:block hidden' />
             Javascript. Selamat Datang di website Portfolio Saya.
